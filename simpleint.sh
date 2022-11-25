@@ -1,3 +1,4 @@
+# Author: Khush263
 echo “Enter the principal amount:”
 read p
 echo “Enter the rate of interest:”
